@@ -1,0 +1,3 @@
+rootProject.name = "DialogDemo"
+include ':app'
+include ':libDialog'
